@@ -1,0 +1,5 @@
+com\sevenrmartsupermarket\tests\LoginTest.class
+com\sevenrmartsupermarket\tests\AdminUserTest.class
+com\sevenrmartsupermarket\tests\HomeTest.class
+com\sevenrmartsupermarket\tests\DashBoardTest.class
+com\sevenrmartsupermarket\base\Base.class

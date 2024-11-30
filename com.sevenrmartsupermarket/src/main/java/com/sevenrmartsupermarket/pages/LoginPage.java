@@ -46,6 +46,7 @@ public class LoginPage {
 	public void clickOnSiginBtn() {
 		waitutility.waitElementForClikable(remembermeField, 20);
 		remembermeField.click();
+		System.out.println("remove changes");
 	}
 
 	public DashBoardPage login(String userName, String password) {
